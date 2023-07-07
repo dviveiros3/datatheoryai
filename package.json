@@ -11,26 +11,26 @@
     "export": "next export"
   },
   "dependencies": {
-    "@mantine/core": "^4.2.12",
-    "@mantine/hooks": "^4.2.12",
-    "@mantine/next": "^4.2.12",
-    "cookies-next": "^2.1.1",
-    "html-react-parser": "^3.0.0",
-    "next": "12.2.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-icons": "^4.4.0",
-    "react-tsparticles": "^2.1.3",
-    "tsparticles": "^2.1.3",
-    "tsparticles-preset-links": "^2.1.3",
-    "wp-types": "^3.60.0"
+    "@mantine/core": "*",
+    "@mantine/hooks": "*",
+    "@mantine/next": "*",
+    "cookies-next": "*",
+    "html-react-parser": "*",
+    "next": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-icons": "*",
+    "react-tsparticles": "*",
+    "tsparticles": "*",
+    "tsparticles-preset-links": "*",
+    "wp-types": "*"
   },
   "devDependencies": {
-    "@types/node": "18.0.3",
-    "@types/react": "18.0.15",
-    "@types/react-dom": "18.0.6",
-    "eslint": "8.19.0",
-    "eslint-config-next": "12.2.0",
-    "typescript": "4.7.4"
+    "@types/node": "*",
+    "@types/react": "*",
+    "@types/react-dom": "*",
+    "eslint": "*",
+    "eslint-config-next": "*",
+    "typescript": "*"
   }
 }
